@@ -1,5 +1,6 @@
 ## Ahmed Alhakem's Github Profile
 
+Hi, I'm Ahmed Alhakem! I am a student at UC Berkeley, majoring in Electrical Engineering and Computer Science. I'm interested in everything related to robotics, software, AI/ML, aerospace, and automotive fields. I also love competing in triathlons, calisthenics, lifting, camping, hiking, tennis, and reading.
 <!--
 **ahmeda-42/ahmeda-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
