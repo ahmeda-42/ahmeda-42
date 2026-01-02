@@ -4,6 +4,7 @@ Hi, I'm Ahmed Alhakem! I am a student at UC Berkeley, majoring in Electrical Eng
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/ahmedalhakem
+- Email: ahmedalhakem@berkeley.edu
 <!--
 **ahmeda-42/ahmeda-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
